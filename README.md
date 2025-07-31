@@ -23,6 +23,7 @@
   "published": true
 }
 
+```
 
 # Logic:
 - The server verifies the user is an admin via the JWT.
