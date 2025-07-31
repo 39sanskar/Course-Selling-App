@@ -14,6 +14,7 @@
 - Authorization: Admin role required.
 - Request Body: A JSON object   containing the course data
 
+- Example of the course
 ```json
 {
   "title": "React for Beginners",
